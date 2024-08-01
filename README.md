@@ -1,7 +1,7 @@
 <h1 align="center">📝 To-Do List Application</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python 3.x">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python 3.12">
   <img src="https://img.shields.io/badge/status-active-success.svg" alt="Project Status">
 </p>
 
